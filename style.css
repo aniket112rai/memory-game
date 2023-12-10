@@ -1,0 +1,32 @@
+.flex{
+    height:550px;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    
+}
+.center{
+    text-align: center;
+}
+button{
+    padding:10px;
+    font-size: 25px;
+    border-radius:10px;
+    background-color: white;
+    color:green;
+   
+}
+button:hover{
+    padding:10px;
+    font-size: 25px;
+    border-radius:10px;
+    background-color: green;
+    color:white;
+}
+
